@@ -1,4 +1,18 @@
-## Hi there 👋
+# Nadeem Abdul Hamid
+
+## Courses
+
+- CSC 101 - **Introduction to Computing**
+
+## Research
+
+- Interactive Theorem Proving
+
+
+
+
+
+
 
 <!--
 **nadeemabdulhamid/nadeemabdulhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
